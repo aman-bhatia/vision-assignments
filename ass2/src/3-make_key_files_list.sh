@@ -1,0 +1,1 @@
+for f in `ls ./dataset/key_files/`;do echo ./dataset/key_files/$f;done > list.keys
